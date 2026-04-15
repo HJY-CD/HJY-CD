@@ -14,9 +14,7 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="publications">
-  <p style="font-size: 0.85rem; color: #6c757d; margin-bottom: 20px; font-style: italic;">
-    *: joint first author, †: corresponding author
-  </p>
+
 {% bibliography %}
 
 </div>
