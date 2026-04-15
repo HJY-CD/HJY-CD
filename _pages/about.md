@@ -9,9 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,6 +23,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+I obtained my PhD degree from Computer Science and Engineering Department, The Chinese University of Hong Kong (CUHK) [subreddit](https://www.cse.cuhk.edu.hk/), supervised by Prof. Chi-Wing Fu [subreddit](https://www.cse.cuhk.edu.hk/~cwfu/). Before that, I got the Bachelor degree in Computer Science and Technology from the University of Chinese Academy of Science (UCAS), supervised by Prof. Lin Gao [subreddit](http://geometrylearning.com/lin/). My research interests lie in the intersection of computer graphics, 3D vision, and robotics.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
