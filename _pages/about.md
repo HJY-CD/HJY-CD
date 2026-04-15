@@ -19,12 +19,12 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I obtained my PhD degree from [Computer Science and Engineering Department, The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/). Before that, I got the Bachelor degree from [the University of Chinese Academy of Science (UCAS)](https://english.ucas.ac.cn/), supervised by [Prof. Lin Gao](http://geometrylearning.com/lin/). My research interests lie in the intersection of computer graphics, 3D vision, and robotics.
+I obtained my PhD degree from [Computer Science and Engineering Department, The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/). Before that, I got the Bachelor degree from [the University of Chinese Academy of Science (UCAS)](https://english.ucas.ac.cn/), supervised by [Prof. Lin Gao](http://geometrylearning.com/lin/). My research interests lie at the intersection of computer graphics, 3D vision, and robotics.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
