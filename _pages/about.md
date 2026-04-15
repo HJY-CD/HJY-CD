@@ -4,11 +4,6 @@ title: about
 permalink: /
 subtitle: "Email: hujingyucd@gmail.com"
 
-#profile:
-  # align: right
-  # image: prof_pic.jpg
-  # image_circular: false # crops the image to make it circular
-  # more_info: >
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,5 +19,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I obtained my PhD degree from [The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/). Before that, I got the Bachelor degree from the [University of Chinese Academy of Science (UCAS)](https://english.ucas.ac.cn/), supervised by [Prof. Lin Gao](http://geometrylearning.com/lin/). My research interests lie at the intersection of computer graphics, 3D vision, and robotics.
+I obtained my PhD degree from [The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/). Before that, I got the Bachelor's degree from the [University of Chinese Academy of Science (UCAS)](https://english.ucas.ac.cn/), supervised by [Prof. Lin Gao](http://geometrylearning.com/lin/). My research interests lie at the intersection of computer graphics, 3D vision, and robotics.
 
