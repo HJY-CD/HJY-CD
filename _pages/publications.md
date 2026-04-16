@@ -14,8 +14,8 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="publications">
-  <p style="font-size: 0.85em; color: #666; margin-top: -10px; margin-bottom: 15px;">
-    <small>* denotes equal contribution, <sup>† denotes corresponding author.</small>
+<p style="font-size: 0.85em; color: #666; margin-top: -10px; margin-bottom: 15px;">
+    <small><em>* denotes equal contribution; † denotes corresponding author.</em></small>
   </p>
 {% bibliography %}
 
