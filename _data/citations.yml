@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-04-27'
 papers:
   Gn0lRNsAAAAJ:0EnyYjriUFMC:
     citations: 9
@@ -26,11 +26,11 @@ papers:
     title: 'coDrawAgents: A Multi-Agent Dialogue Framework for Compositional Image Generation'
     year: '2026'
   Gn0lRNsAAAAJ:WF5omc3nYNoC:
-    citations: 53
+    citations: 54
     title: 'Neural template: Topology-aware reconstruction and disentangled generation of 3d meshes'
     year: '2022'
   Gn0lRNsAAAAJ:Zph67rFs4hoC:
-    citations: 1
+    citations: 2
     title: Action-Geometry Prediction with 3D Geometric Prior for Bimanual Manipulation
     year: '2026'
   Gn0lRNsAAAAJ:_FxGoFyzp5QC:
