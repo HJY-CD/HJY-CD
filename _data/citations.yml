@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-06'
 papers:
   Gn0lRNsAAAAJ:0EnyYjriUFMC:
     citations: 9
     title: Hierarchical Neural Semantic Representation for 3D Semantic Correspondence
     year: '2025'
   Gn0lRNsAAAAJ:3fE2CSJIrl8C:
-    citations: 7
+    citations: 8
     title: 'Wonderverse: Extendable 3d scene generation with video generative models'
     year: '2025'
   Gn0lRNsAAAAJ:8k81kl-MbHgC:
@@ -14,11 +14,11 @@ papers:
     title: 'Imagine a City: CityGenAgent for Procedural 3D City Generation'
     year: '2026'
   Gn0lRNsAAAAJ:LkGwnXOMwfcC:
-    citations: 36
+    citations: 38
     title: Neural wavelet-domain diffusion for 3d shape generation, inversion, and manipulation
     year: '2024'
   Gn0lRNsAAAAJ:Se3iqnhoufwC:
-    citations: 19
+    citations: 20
     title: 'CNS-Edit: 3D Shape Editing via Coupled Neural Shape Optimization'
     year: '2024'
   Gn0lRNsAAAAJ:ULOm3_A8WrAC:
@@ -54,6 +54,6 @@ papers:
     title: Neural wavelet-domain diffusion for 3d shape generation
     year: '2022'
   Gn0lRNsAAAAJ:ufrVoPGSRksC:
-    citations: 20
+    citations: 21
     title: 'EXIM: A Hybrid Explicit-Implicit Representation for Text-Guided 3D Shape Generation'
     year: '2023'
