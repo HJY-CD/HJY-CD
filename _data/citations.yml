@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-25'
 papers:
   Gn0lRNsAAAAJ:0EnyYjriUFMC:
     citations: 9
@@ -22,7 +22,7 @@ papers:
     title: 'CNS-Edit: 3D Shape Editing via Coupled Neural Shape Optimization'
     year: '2024'
   Gn0lRNsAAAAJ:ULOm3_A8WrAC:
-    citations: 0
+    citations: 1
     title: 'coDrawAgents: A Multi-Agent Dialogue Framework for Compositional Image Generation'
     year: '2026'
   Gn0lRNsAAAAJ:WF5omc3nYNoC:
