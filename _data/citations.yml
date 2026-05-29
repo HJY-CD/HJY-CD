@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-05-29'
 papers:
   Gn0lRNsAAAAJ:0EnyYjriUFMC:
     citations: 9
@@ -9,6 +9,10 @@ papers:
     citations: 8
     title: 'Wonderverse: Extendable 3d scene generation with video generative models'
     year: '2025'
+  Gn0lRNsAAAAJ:4TOpqqG69KYC:
+    citations: 0
+    title: 'PhyMix: Towards Physically Consistent Single-Image 3D Indoor Scene Generation with Implicit--Explicit Optimization'
+    year: '2026'
   Gn0lRNsAAAAJ:8k81kl-MbHgC:
     citations: 1
     title: 'Imagine a City: CityGenAgent for Procedural 3D City Generation'
