@@ -19,6 +19,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a researcher at Tencent Games. I obtained my PhD degree from [The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/). Before that, I got the Bachelor's degree from the [University of Chinese Academy of Science (UCAS)](https://english.ucas.ac.cn/), supervised by [Prof. Lin Gao](http://geometrylearning.com/lin/). My research focuses on computer graphics and 3D vision.
+I am currently a researcher at Tencent Games. I obtained my PhD degree from [The Chinese University of Hong Kong (CUHK)](https://www.cse.cuhk.edu.hk/), supervised by [Prof. Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/). Before that, I got the Bachelor's degree from the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), supervised by [Prof. Lin Gao](http://geometrylearning.com/lin/). My research focuses on computer graphics and 3D vision.
 
 If you are interested in my research or potential collaborations, feel free to contact me!
