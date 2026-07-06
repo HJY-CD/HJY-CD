@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-06'
 papers:
   Gn0lRNsAAAAJ:0EnyYjriUFMC:
     citations: 11
@@ -54,7 +54,7 @@ papers:
     title: 'LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency'
     year: '2026'
   Gn0lRNsAAAAJ:roLk4NBRz8UC:
-    citations: 180
+    citations: 182
     title: Neural wavelet-domain diffusion for 3d shape generation
     year: '2022'
   Gn0lRNsAAAAJ:ufrVoPGSRksC:
