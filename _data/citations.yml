@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-15'
 papers:
   Gn0lRNsAAAAJ:0EnyYjriUFMC:
     citations: 11
@@ -42,7 +42,7 @@ papers:
     title: 'PEGAsus: 3D Personalization of Geometry and Appearance'
     year: '2026'
   Gn0lRNsAAAAJ:aqlVkmm33-oC:
-    citations: 4
+    citations: 5
     title: Action-geometry prediction with 3d geometric prior for bimanual manipulation
     year: '2026'
   Gn0lRNsAAAAJ:eQOLeE2rZwMC:
