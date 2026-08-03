@@ -1,24 +1,32 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-08-03'
 papers:
   Gn0lRNsAAAAJ:0EnyYjriUFMC:
     citations: 11
     title: Hierarchical Neural Semantic Representation for 3D Semantic Correspondence
     year: '2025'
   Gn0lRNsAAAAJ:3fE2CSJIrl8C:
-    citations: 8
+    citations: 9
     title: 'Wonderverse: Extendable 3d scene generation with video generative models'
     year: '2025'
   Gn0lRNsAAAAJ:4TOpqqG69KYC:
     citations: 1
     title: 'PhyMix: Towards Physically Consistent Single-Image 3D Indoor Scene Generation with Implicit--Explicit Optimization'
     year: '2026'
+  Gn0lRNsAAAAJ:7PzlFSSx8tAC:
+    citations: 0
+    title: 'CNS-Edit++: Category-Agnostic 3D Editing with Coupled Neural Shape Representation'
+    year: '2026'
   Gn0lRNsAAAAJ:8k81kl-MbHgC:
-    citations: 3
+    citations: 4
     title: 'Imagine a City: CityGenAgent for Procedural 3D City Generation'
     year: '2026'
+  Gn0lRNsAAAAJ:9ZlFYXVOiuMC:
+    citations: 0
+    title: 'SkelGen4D: Weakly-Supervised Skeleton-Based 4D Generation for Text-Driven Mesh Animation'
+    year: '2026'
   Gn0lRNsAAAAJ:LkGwnXOMwfcC:
-    citations: 40
+    citations: 41
     title: Neural wavelet-domain diffusion for 3d shape generation, inversion, and manipulation
     year: '2024'
   Gn0lRNsAAAAJ:Se3iqnhoufwC:
@@ -34,7 +42,7 @@ papers:
     title: 'Neural template: Topology-aware reconstruction and disentangled generation of 3d meshes'
     year: '2022'
   Gn0lRNsAAAAJ:_FxGoFyzp5QC:
-    citations: 5
+    citations: 6
     title: "Worst\u2010Case Rigidity Analysis and Optimization for Assemblies with Mechanical Joints"
     year: '2022'
   Gn0lRNsAAAAJ:_kc_bZDykSQC:
@@ -50,14 +58,14 @@ papers:
     title: 'CLIPXPlore: Coupled CLIP and Shape Spaces for 3D Shape Exploration'
     year: '2023'
   Gn0lRNsAAAAJ:kNdYIx-mwKoC:
-    citations: 3
+    citations: 4
     title: 'LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency'
     year: '2026'
   Gn0lRNsAAAAJ:roLk4NBRz8UC:
-    citations: 183
+    citations: 185
     title: Neural wavelet-domain diffusion for 3d shape generation
     year: '2022'
   Gn0lRNsAAAAJ:ufrVoPGSRksC:
-    citations: 23
+    citations: 22
     title: 'EXIM: A Hybrid Explicit-Implicit Representation for Text-Guided 3D Shape Generation'
     year: '2023'
