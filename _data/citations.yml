@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-05'
 papers:
   Gn0lRNsAAAAJ:0EnyYjriUFMC:
     citations: 11
@@ -58,11 +58,11 @@ papers:
     title: 'CLIPXPlore: Coupled CLIP and Shape Spaces for 3D Shape Exploration'
     year: '2023'
   Gn0lRNsAAAAJ:kNdYIx-mwKoC:
-    citations: 4
+    citations: 5
     title: 'LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency'
     year: '2026'
   Gn0lRNsAAAAJ:roLk4NBRz8UC:
-    citations: 185
+    citations: 186
     title: Neural wavelet-domain diffusion for 3d shape generation
     year: '2022'
   Gn0lRNsAAAAJ:ufrVoPGSRksC:
